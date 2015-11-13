@@ -18,3 +18,13 @@ Commiting files (not yet over gethub)
 To GitHub
 
 - git push -> send files to remote repo 
+
+
+# Markdown
+## Like that
+### or that
+
+* lista
+* lista
+- lista 2
+- lista 2
